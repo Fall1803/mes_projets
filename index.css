@@ -1,10 +1,50 @@
+body{
+    background-color:gainsboro ;
+}
 h1{
-    font-size: 3em;
-    text-align: center;
+    font-size: 5em;
+    text-align: left;
+    margin-bottom: -1%;
+    padding-left: 5%;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2em;
 }
 p{
     font-size: 2em;
+    text-align: 25px;
+   padding-left: 5%;
 }
 .R{
     margin-top:auto;
+}
+#s{
+    margin-top: -3%;
+    background: orange;
+}
+h2{
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.A{
+    margin-top: -15%;
+}
+.q{
+   color: orange;
+    font-size: 20%;
+    text-align: center;
+}
+.w{
+    padding-left: 15%;
+}
+.d{
+    word-spacing: 0%;
+}
+.y{
+    background-color: beige;
+    margin-top: 5%;
+    text-align: center;
+   border-top-right-radius: 10%;
 }
